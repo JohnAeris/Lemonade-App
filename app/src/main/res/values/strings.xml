@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lemonade App</string>
+
+    <string name="tree">Tap the lemon tree to select a lemon</string>
+    <string name="lemon">Keep tapping the lemon to squeeze it</string>
+    <string name="drink_lemonade">Tap the lemonade to drink it</string>
+    <string name="empty_glass">Tap the empty glass to start again</string>
+
+    <string name="content_description1">Lemon Tree</string>
+    <string name="content_description2">Lemon</string>
+    <string name="content_description3">Glass of Lemonade</string>
+    <string name="content_description4">Empty Glass</string>
+
+</resources>
